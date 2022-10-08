@@ -221,7 +221,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2062490275}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
@@ -1282,7 +1282,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Main Camera
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2274891152081959539, guid: 1507a019ef31fba4098436b4cadc015d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1507a019ef31fba4098436b4cadc015d, type: 3}
 --- !u!1 &1671951934
 GameObject:
@@ -1701,9 +1702,9 @@ RectTransform:
   - {fileID: 1289164681}
   - {fileID: 773360784}
   - {fileID: 1079951360}
+  - {fileID: 169215523}
   - {fileID: 1486706544}
   - {fileID: 666369141}
-  - {fileID: 169215523}
   m_Father: {fileID: 1914568406}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
