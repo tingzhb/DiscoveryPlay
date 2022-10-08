@@ -225,7 +225,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -259}
+  m_AnchoredPosition: {x: 0, y: -267}
   m_SizeDelta: {x: 1311.4783, y: 382.603}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &169215524
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Get the full version of Dicovery Play to continue your advenuture!
+  m_text: 'Get the full version of Discovery Play to continue your advenuture!
 
 
     See
@@ -944,7 +944,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000011444, y: -105.690994}
+  m_AnchoredPosition: {x: 0.000011444, y: -133}
   m_SizeDelta: {x: 540.6453, y: 540.6453}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1289164682
