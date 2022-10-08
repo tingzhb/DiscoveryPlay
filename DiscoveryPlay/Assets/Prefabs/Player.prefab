@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1523314368858194417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1523314368858194421}
+  - component: {fileID: 1523314368858194419}
+  - component: {fileID: 1523314368858194423}
+  - component: {fileID: 1523314368858194422}
+  - component: {fileID: 1523314368858194424}
+  - component: {fileID: 3061161782508319403}
+  - component: {fileID: 806892313856583907}
+  - component: {fileID: 3738557535041543061}
+  m_Layer: 0
+  m_Name: Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1523314368858194421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1523314368858194419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c60ac312f5423146a35ef7ce069a88b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1523314368858194423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fef64d3818e415249bc185884282f1c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1523314368858194422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef69b4124f2d9848a2ed5849f81c950, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1523314368858194424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8d211e3ee6731b49b94bb290701f9a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3061161782508319403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2797f5f62f6a54eb935de64b7b436b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelMusic:
+  - Guid:
+      Data1: 1799279746
+      Data2: 1230244248
+      Data3: 1336985224
+      Data4: -1734821225
+    Path: event:/A/BGM A
+  - Guid:
+      Data1: 1877489417
+      Data2: 1082323835
+      Data3: 1076627632
+      Data4: -1541934120
+    Path: event:/B/BGM B
+  - Guid:
+      Data1: -1746800646
+      Data2: 1262432906
+      Data3: -1498066274
+      Data4: -2104863310
+    Path: event:/C/BGM C
+  - Guid:
+      Data1: -2083968075
+      Data2: 1094561853
+      Data3: 138765954
+      Data4: -65454495
+    Path: event:/D/BGM D
+  - Guid:
+      Data1: -717859771
+      Data2: 1183205494
+      Data3: 1453702834
+      Data4: -571464474
+    Path: event:/E/BGM E
+  - Guid:
+      Data1: 1583446920
+      Data2: 1340208134
+      Data3: 1893526434
+      Data4: 809691751
+    Path: event:/F/BGM F
+  - Guid:
+      Data1: 1874493560
+      Data2: 1189456905
+      Data3: -536997465
+      Data4: -935782337
+    Path: event:/G/BGM G
+  ambientMusic:
+    Guid:
+      Data1: -2123291270
+      Data2: 1268289761
+      Data3: -183026003
+      Data4: -1291940262
+    Path: event:/General/Ambience
+--- !u!114 &806892313856583907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72bed0b9c3474b1448b8b0d1406c6efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3738557535041543061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523314368858194417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attenuationObject: {fileID: 0}
